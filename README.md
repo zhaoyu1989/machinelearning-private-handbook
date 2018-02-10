@@ -1,4 +1,6 @@
 # machinelearning-private-handbook
-handbook &amp; note for machinelearning
 
-20180210
+handbook & note for machinelearning
+
+---20180210---
+
